@@ -1,4 +1,4 @@
-## salaries
+## Salaries
 
 This dataset provides valuable insights into compensation and employment trends within the data science field. It encompasses a wide range of roles and industries, offering a comprehensive picture of the data science landscape.
 
