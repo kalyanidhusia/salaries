@@ -1,6 +1,6 @@
 ## Salaries
 
-This dataset provides valuable insights into compensation and employment trends within the data science field. It encompasses a wide range of roles and industries, offering a comprehensive picture of the data science landscape.
+The median annual wage for data scientists was $108,020 in May 2023. The median wage is the wage at which half the workers in an occupation earned more than that amount and half earned less. The lowest 10 percent earned less than $61,070, and the highest 10 percent earned more than $184,090. This dataset provides valuable insights into compensation and employment trends within the data science field. It encompasses a wide range of roles and industries, offering a comprehensive picture of the data science landscape.
 
 Dataset Description:
 The dataset includes the following features:
